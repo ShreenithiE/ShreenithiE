@@ -7,7 +7,7 @@
 
 ## TECHNICAL SKILLS
 
-<img src="https://skillicons.dev/icons?i=python,django,js,mysql,git,html,css" />
+<img src="https://skillicons.dev/icons?i=python,django,js,mysql,git,html,css,vscode,flask" />
 
 
 <p align="center">
@@ -20,4 +20,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTkzc2djbjI4d3E0Y3FiaXlhZXNlM3RoeDlnd3MwYnNrNGFzanFwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/200.webp" width="500">
 </p>
 
-
+## PROJECTS
+AI-POWERED ROLE PREDICTION
+AI-POWERED CONTENT SUMMARIZER AND QUIZ GENERATOR
+PORTFOLIO-GENERATOR
