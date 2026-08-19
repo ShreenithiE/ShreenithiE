@@ -32,18 +32,6 @@
 
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreenithiE&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenithiE&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreenithiE&theme=radical" alt="GitHub Streak" width="97%" />
-</p>
-
----
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTkzc2djbjI4d3E0Y3FiaXlhZXNlM3RoeDlnd3MwYnNrNGFzanFwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/200.webp" width="500" alt="Projects GIF">
