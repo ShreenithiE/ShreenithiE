@@ -10,6 +10,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://shreenithiportfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 * 🎓 Currently studying **Artificial Intelligence & Machine Learning (AI & ML)**
 * 💻 Passionate about building full-stack web applications and AI-driven systems
 * 🚀 Always open to collaborating on innovative AI & open-source projects
